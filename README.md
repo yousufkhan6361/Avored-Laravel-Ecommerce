@@ -1,0 +1,2 @@
+# Avo-red-Laravel-Ecommerce
+You can easily customize the Open Source Laravel Shopping Cart as per your needs. It offers a mobile-friendly interface layout by default, that is why also called one of the best Laravel SEO packages.  The platform allows you to create product entities like category, attributes, etc. with efficient order management capabilities to keep track of your order, customer information and inventory management, etc.
